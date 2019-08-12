@@ -1,2 +1,7 @@
 # DBMS_Project_Medical_Shop_Mgmnt
 Medical Shop Managment System
+
+The “MEDICAL SHOP MANAGEMENT SYSTEM” has been developed to automate the existing manual system with the help of full-fledged computer software so that valuable information can be stored for a longer period and easy accessing and manipulation of the same can be done. It helps to override the problems prevailing in the practicing manual system. This application is supported to eliminate and  in some cases reduce the hardships faced by the  existing system.
+
+The person who manages the application is the salesperson and is treated as the owner. Multiple owners can register and by doing so, they gain the privilege to use the application in order to add medicines arrived in the shop to the stock, register a new customer, sell the required medicines to the customer by storing purchase information into the database. It automatically generates owner id for each salesperson who registers, customer id for every customer who visits the shop for the first time and purchase number for each purchase by the customer. During purchase, when medicine is added to the cart, it allows the owner to view the cart for reconfirmation before the bill is generated for the respective purchase. It manages the details of “MEDICAL SHOP” such as information about the stocks available, about the customers and about the medicines purchased by the customers and the purchase summary. This information can be viewed only by the registered owner and any unauthorized person is not granted access to view the same.
+
